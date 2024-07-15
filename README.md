@@ -12,4 +12,8 @@
 #### 使用
 双击即用，输入账号密码，点击启动即可。
 
+#### 截图
+![image](https://github.com/user-attachments/assets/b2d39705-55a8-4097-aa85-dcb0afa5a1b4)
+
+
 
